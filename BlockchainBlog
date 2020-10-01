@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blockchain Blog | Sailee</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<style type="text/css">
+	li:hover {
+  background-color: #333;
+}
+</style>
+</head>
+<body style="margin: 0px" >
+<header style="background: url('images/bg.gif'); background-size: cover; height: 90vh; width: 100%">
+	<h1 style="font-size: 100px;
+    /* padding-top: 30vh; */
+    color: white;
+    margin: 0px 40px;
+    background-color: black;
+    opacity: 0.7;
+    position: absolute;
+    float: left;
+    top: 30%;">BLOCKCHAIN</h1>
+    <address style="color: white;
+    top: 80%;
+    position: relative;
+    font-size: 42px;
+    float: right;
+    margin-right: 10%;
+    ">
+<h2 >~ Sailee Akim (
+<a href="mailto:saileeakim@gmail.com" style="color: white;
+    font-size: 22px;
+   
+    ">saileeakim@gmail.com</a> )
+</h2>
+</address>
+    
+    
+</header>
+<section>
+	<nav>
+		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #000; height: 10%;">
+			<li style="float: left;width: 33.33%"><a href="#1" style="display: block; color: white; text-align: center; padding: 14px 16px;text-decoration: none; margin: 5% 0%;font-size: 20px">Blockchain 1.0 : Era of cryptocurrencies</a></li>
+		<li style="float: left;width: 33.33%"><a href="#2" style="display: block; color: white; text-align: center; padding: 14px 16px;text-decoration: none; margin: 5% 0%;font-size: 20px">Blockchain 2.0: The era of contracts</a></li>
+		<li style="float: left;width: 33.33%"><a href="#3" style="display: block; color: white; text-align: center; padding: 14px 16px;text-decoration: none; margin: 5% 0%;font-size: 20px">Blockchain 3.0: The era of distributed applications</a></li>
+		
+		</ul>
+		
+	</nav>
+</section>
+<section style="background: url('images/section.jpg'); height: 100vh; width: 100%">
+	<div style="background-color: white;
+    background: transparent;
+    border: 10px solid black;
+    margin: 5px;
+    padding: 15px;
+    font-weight: 900;
+    text-align: justify;" id="1">
+    <h2><a href="https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=In%20looking%20at%20the%20evolution,Era%20%E2%80%93%20turing%20complete%2C%20high%20composability">Blockchain 1.0 : Era of cryptocurrencies</a> </h2>
+	<p>	When blockchain came to be discussed as a niche
+technology, it was from the standpoint of currency and
+Bitcoins. Blockchain 1.0, as it is also known in some circles,
+heralded an era of cryptocurrencies, enabling people to
+make transactions bypassing standard currencies.
+Cryptocurrencies such as Ethereum, Bitcoin, and AltCoin
+made use of blockchain’s growing list of records (blocks) to
+verify transactions using distributed ledgers. As each
+transaction comes with a timestamp and can be verified
+permanently, blockchain gave rise to peer-to-peer financial
+services. Within no time, savvy entrepreneurs began to
+provide services ranging from currency transfers to
+remittances made online. In other words, Blockchain 1.0
+ushered a radical digital payment system that the world
+wasn’t yet prepared for. So much so that it felt subversive
+and almost destabilizing to traditional financial and banking
+institutions. </p>
+	</div>
+	<div style="background-color: white;
+    background: transparent;
+    border: 10px solid black;
+    margin: 5px;
+    padding: 15px;
+    font-weight: 900;
+    text-align: justify;" id="2">
+    <h2><a href="https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=In%20looking%20at%20the%20evolution,Era%20%E2%80%93%20turing%20complete%2C%20high%20composability" > Blockchain 2.0: The era of contracts</a></h2>
+  <p>  The evolution of cryptocurrencies and Bitcoin encouraged
+traditional banking and financial institutions to adopt
+blockchain as well. Blockchain 2.0 garnered the interest of
+every C-level executive and that of every investor.Very
+quickly, blockchain’s applications rose above and beyond
+financial transactions, and it became the de facto method to
+manage contracts. As each transaction is immutable, and
+distributed ledgers can’t be tampered with, governments,
+real estate agencies, financial institutions, and even health
+entities started to use blockchain to verify identities and
+information, manage contracts, and ensure safety and
+security. This was the era of Smart Contracts, tiny computer
+programs that remain embedded in the blockchain, that
+automatically facilitate, verify, and enforce contract
+performance. Ethereum Blockchain is a popular Smart
+Contract service that many would recognize. </p>
+</div>
+<div style="background-color: white;
+    background: transparent;
+    border: 10px solid black;
+    margin: 5px;
+    padding: 15px;
+    font-weight: 900;
+    text-align: justify;" id="3">
+    <h2><a href="https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=In%20looking%20at%20the%20evolution,Era%20%E2%80%93%20turing%20complete%2C%20high%20composability">Blockchain 3.0: The era of distributed applications</a> </h2>
+    <p>Currently, we are in Blockchain 3.0, which is dominated by
+decentralized applications also known as DApp. DApps
+make use of blockchain’s decentralized communication and
+storage to run backend codes. What started as a
+cryptocurrency tool evolved into a contract management
+method. Currently, blockchain’s decentralized models have
+given rise to cultural shifts, that involve verification sans
+human intervention. As the human activity of all sorts is
+vulnerable to falsification, trustless technologies such as
+blockchain provide the solution that the world needs today.
+DApps have resulted in blockchain being used to achieve
+consensus, verify using digital IDs, protect IPs, manage
+media, and enhance governance and healthcare. In other
+words, blockchain is no longer limited to currency, market,
+or contracts. It is now used Blockchain’s evolution has
+helped modern businesses to meet various demands that
+previously were unattainable. Blockchain has made it easier
+for automation, ERP, and software integration easier and
+more trustworthy.</p> </div>
+</section>
+<footer style="background-color: black;">
+	<address style="color: white; padding-left: 10px;padding-top: 10px;padding-bottom: 10px">
+Written by <a href="mailto:saileeakim@gmail.com">Sailee Akim</a><br> 
+Visit us at: Example.com <br>
+Made with <i class="fas fa-heart" style="color: white">  </i> by Sailee Akim
+</address>
+</footer>
+</body>
+</html>
