@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coders MAnia</title>
+	<style type="text/css">
+		header{
+			position:relative;
+			width:100%;
+			height:30vh;
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			overflow:hidden;
+			
+		}
+		header .content{
+		position:relative;
+		z-index:1;
+		margin: 0 auto;
+		max-width:900px;
+		text-align:center;
+		}
+		header:before{
+		content:'';
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+		background:linear-gradient(45deg, #ff0081,#6827b0);
+		border-radius:0 0 50% 50%/0 0 100% 100%;
+		transform:scaleX(1.5);
+		
+		}
+		header .content h1{
+		margin:0;
+		padding:0;
+		color:#fff;
+		font-size:100px;
+		display:inline-block;
+		}
+		body{
+			margin:0px;
+			background-color: #5de6de;
+background-image: linear-gradient(315deg, #5de6de 0%, #b58ecc 74%);
+		}
+		.pro{
+		width:30%;
+		margin: 5%;
+		
+		height:40vh;
+		float:left;
+		}
+		.problem h2 , .problem p{
+		
+		}
+		.codes{
+		background:#000;
+		
+		}
+		.seccodes{
+		
+		margin: 5%;
+		width:50%;
+		height:40vh;
+		float:left;
+		}
+		.io{
+		width:100%;
+		float:left;
+		background-color: #fde7f9;
+background-image: linear-gradient(315deg, #fde7f9 0%, #aacaef 74%);
+
+		}
+		.col{
+		width:50%;
+		float:left;
+		}
+		hr{
+		margin:0;
+		}
+	</style>
+</head>
+<body>
+<header >
+	<div class="content">
+	
+	<h1>c<b style="color:black;font-size:120px" ><img src="images/logo.png" height="100px" width="100px"></b>der</h1>
+	</div>
+</header>
+<section class="pro">
+<div class="problem">
+	<h2>Problem Statement:</h2>
+	<p> Write a code in any programming language that converts
+Cenverts binary number to decimal number</p>
+<p>Input : 111<br>
+Output : 7<br>
+
+Input : 1010<br>
+Output : 10<br>
+
+Input: 100001<br>
+Output: 33</p>
+</div>
+</section>
+
+<section class="seccodes">
+<h2>Solution:</h2>
+<div class="codes">
+	<code><pre style="color:white;padding:5px">
+include &lt;iostrem&gt;
+using namespace std;
+int main()
+{
+    char binaryNumber[] = "1001"; 
+     
+    cout << stoi(binaryNumber, 0, 2);
+ 
+    return 0;
+}</pre></code>
+</div>
+</section>
+<hr>
+<section class="io">
+	<div class="col" >
+	<label>Input:
+	<samp>
+		111<br>
+		1010<br>
+		100001<br>
+	</samp>
+	</label>
+	</div>
+	
+
+<div class="col">
+	<label>
+		Output:
+	<samp>
+		7 <br>
+		10<br>
+		33<br>
+	</samp>
+	</label>
+</div>
+</section>
+<hr>
+<section style="background:black;color:white;width:100%;float:left;">
+<div>
+	<div><p>Variable Use:<var>binaryNumber</var></p>
+	</div>
+	<div>Complexity: O(1)</div>
+</div>
+</section>
+<hr>
+<footer style="background:linear-gradient(45deg, #ff0081,#6827b0);color:white">
+<center>
+	<span>Everything is under <kbd>CTRL</kbd></span><br>
+	<span>Don't Quit</span>
+	<center>
+</footer>
+</body>
+</html>
